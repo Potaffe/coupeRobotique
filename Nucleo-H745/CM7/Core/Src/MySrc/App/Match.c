@@ -387,7 +387,7 @@ void MatchStd(void)
    /*ReculeVers(1280,300);
    TourneVers(900);
    return;*/
-
+   AvanceVers(1000,1700);
 
    AvanceVers(1000,700);
    AvanceVers(1500-680,700);
