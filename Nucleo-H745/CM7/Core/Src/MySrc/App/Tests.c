@@ -291,10 +291,12 @@ void TestFusee(void)
    }
 
 void DeploiMax(void)
-   {
-   //GMouvementW(g_posebalance);
-   while (1);
-   }
+{
+	RangerBras();
+	while (1){
+
+	}
+}
 
 #include "../Core/I2CUSCommun.h"
 
