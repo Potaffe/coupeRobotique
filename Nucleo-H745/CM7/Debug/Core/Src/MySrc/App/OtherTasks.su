@@ -1,0 +1,3 @@
+..\Core\Src\MySrc\App\OtherTasks.c:48:5:LoadTask	0	static
+..\Core\Src\MySrc\App\OtherTasks.c:59:5:NbTasks	0	static
+..\Core\Src\MySrc\App\OtherTasks.c:69:6:RT_OtherTasks	8	static

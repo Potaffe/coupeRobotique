@@ -1,0 +1,6 @@
+..\Core\Src\MySrc\Core\TempsMs.c:22:6:InitTempsMs	0	static
+..\Core\Src\MySrc\Core\TempsMs.c:32:6:GestTMs	8	static
+..\Core\Src\MySrc\Core\TempsMs.c:56:12:CreateDelaiMs	8	static
+..\Core\Src\MySrc\Core\TempsMs.c:63:5:FinDelaiMs	8	static
+..\Core\Src\MySrc\Core\TempsMs.c:69:5:ResteDelaiMs	8	static
+..\Core\Src\MySrc\Core\TempsMs.c:77:6:CloseDelaiMs	0	static

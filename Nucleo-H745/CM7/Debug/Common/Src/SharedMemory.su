@@ -1,0 +1,11 @@
+..\..\Common\Src\SharedMemory.c:71:10:getBAL_LIFE	0	static
+..\..\Common\Src\SharedMemory.c:76:9:getBAL_X	0	static
+..\..\Common\Src\SharedMemory.c:81:9:getBAL_Y	0	static
+..\..\Common\Src\SharedMemory.c:86:6:setBAL_LIFE	0	static
+..\..\Common\Src\SharedMemory.c:91:6:setBAL_X	0	static
+..\..\Common\Src\SharedMemory.c:96:6:setBAL_Y	0	static
+..\..\Common\Src\SharedMemory.c:106:7:DistBal	16	static
+..\..\Common\Src\SharedMemory.c:112:6:InitSharedData	8	static
+..\..\Common\Src\SharedMemory.c:145:6:RefreshLidarData	0	static,ignoring_inline_asm
+..\..\Common\Src\SharedMemory.c:150:10:Get_CT_CM4	0	static
+..\..\Common\Src\SharedMemory.c:160:10:Get_CT2_CM4	0	static

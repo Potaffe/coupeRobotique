@@ -1,0 +1,12 @@
+..\Core\Src\MySrc\App\RT-Main.c:314:5:ChercheBordure	4
+..\Core\Src\MySrc\App\RT-Main.c:64:6:Coucou	2
+..\Core\Src\MySrc\App\RT-Main.c:82:6:DbgServoMoveW	1
+..\Core\Src\MySrc\App\RT-Main.c:158:6:BasicWaitTirette	6
+..\Core\Src\MySrc\App\RT-Main.c:216:6:BasicWaitTiretteText	5
+..\Core\Src\MySrc\App\RT-Main.c:258:6:BasicMenu	4
+..\Core\Src\MySrc\App\RT-Main.c:296:6:AffBal	3
+..\Core\Src\MySrc\App\RT-Main.c:327:6:CalageOdometrieAuto	5
+..\Core\Src\MySrc\App\RT-Main.c:387:6:RetourMaison	5
+..\Core\Src\MySrc\App\RT-Main.c:457:5:TaskVisionLidar	6
+..\Core\Src\MySrc\App\RT-Main.c:478:6:AffBalP	1
+..\Core\Src\MySrc\App\RT-Main.c:487:6:RT_Main	2

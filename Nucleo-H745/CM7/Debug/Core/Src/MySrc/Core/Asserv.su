@@ -1,0 +1,16 @@
+..\Core\Src\MySrc\Core\Asserv.c:33:13:GetPos	0	static
+..\Core\Src\MySrc\Core\Asserv.c:400:16:Correcteur	0	static
+..\Core\Src\MySrc\Core\Asserv.c:104:14:ErrCap	24	static
+..\Core\Src\MySrc\Core\Asserv.c:139:13:CalculConsignes	24	static
+..\Core\Src\MySrc\Core\Asserv.c:485:13:GestMotX	8	static
+..\Core\Src\MySrc\Core\Asserv.c:77:5:GetDX_Cible	0	static
+..\Core\Src\MySrc\Core\Asserv.c:82:5:GetDY_Cible	0	static
+..\Core\Src\MySrc\Core\Asserv.c:444:6:SetPrmX	0	static
+..\Core\Src\MySrc\Core\Asserv.c:451:6:StartX	0	static
+..\Core\Src\MySrc\Core\Asserv.c:458:5:XIsRunning	0	static
+..\Core\Src\MySrc\Core\Asserv.c:463:6:MoveX	8	static
+..\Core\Src\MySrc\Core\Asserv.c:469:5:GetPosMotX	0	static
+..\Core\Src\MySrc\Core\Asserv.c:474:6:StopMotX	8	static
+..\Core\Src\MySrc\Core\Asserv.c:480:6:AsservMotX	0	static
+..\Core\Src\MySrc\Core\Asserv.c:558:6:TryToSyncSPI	0	static
+..\Core\Src\MySrc\Core\Asserv.c:567:6:GestAsserv	24	static

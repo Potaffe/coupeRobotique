@@ -1,0 +1,9 @@
+..\Core\Src\MySrc\App\Communic.c:68:13:AddVal	4
+..\Core\Src\MySrc\App\Communic.c:48:24:GetGros	1
+..\Core\Src\MySrc\App\Communic.c:53:24:GetPetit	1
+..\Core\Src\MySrc\App\Communic.c:58:24:GetExp	1
+..\Core\Src\MySrc\App\Communic.c:85:7:BuildFrame	1
+..\Core\Src\MySrc\App\Communic.c:231:6:RT_Communic	2
+..\Core\Src\MySrc\App\Communic.c:254:6:AddScore	1
+..\Core\Src\MySrc\App\Communic.c:264:10:IsComReceivingData	3
+..\Core\Src\MySrc\App\Communic.c:285:6:HuartCom_RxCpltCallback	9

@@ -1,0 +1,12 @@
+..\Core\Src\MySrc\Core\LowLevel.c:27:10:VitMotG	0	static
+..\Core\Src\MySrc\Core\LowLevel.c:40:10:VitMotX	0	static
+..\Core\Src\MySrc\Core\LowLevel.c:54:10:VitMotD	0	static
+..\Core\Src\MySrc\Core\LowLevel.c:68:6:SetVitMotG	8	static
+..\Core\Src\MySrc\Core\LowLevel.c:73:6:SetVitMotD	8	static
+..\Core\Src\MySrc\Core\LowLevel.c:78:6:SetVitMotX	8	static
+..\Core\Src\MySrc\Core\LowLevel.c:84:6:SetVitMotGD	16	static
+..\Core\Src\MySrc\Core\LowLevel.c:95:6:LeveDrapeau	0	static
+..\Core\Src\MySrc\Core\LowLevel.c:101:6:Powen	8	static
+..\Core\Src\MySrc\Core\LowLevel.c:106:6:VitTurbine	0	static
+..\Core\Src\MySrc\Core\LowLevel.c:113:6:PowTurbine	8	static
+..\Core\Src\MySrc\Core\LowLevel.c:118:5:GetDetect	0	static

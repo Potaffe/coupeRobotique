@@ -1,0 +1,5 @@
+..\Core\Src\MySrc\Core\I2CMaitre.c:21:10:I2CPing	8	static
+..\Core\Src\MySrc\Core\I2CMaitre.c:26:10:I2CWriteByte	24	static
+..\Core\Src\MySrc\Core\I2CMaitre.c:33:10:I2CWriteBytes	16	static
+..\Core\Src\MySrc\Core\I2CMaitre.c:48:9:I2CReadByte	32	static
+..\Core\Src\MySrc\Core\I2CMaitre.c:58:9:I2CReadBytes	24	static

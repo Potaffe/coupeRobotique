@@ -1,0 +1,7 @@
+..\Core\Src\MySrc\App\Menu.c:194:13:AffSelectType	8	static
+..\Core\Src\MySrc\App\Menu.c:187:13:AffSelectMode	8	static
+..\Core\Src\MySrc\App\Menu.c:130:13:AffBat	8	static
+..\Core\Src\MySrc\App\Menu.c:120:13:AffBatTime	16	static
+..\Core\Src\MySrc\App\Menu.c:142:16:Wait_poussoirs	8	static
+..\Core\Src\MySrc\App\Menu.c:176:13:AffSelectColor	24	static
+..\Core\Src\MySrc\App\Menu.c:200:8:Menu	104	static

@@ -1,0 +1,4 @@
+..\Core\Src\MySrc\DetectObst.c:16:12:IsNear	0	static
+..\Core\Src\MySrc\DetectObst.c:27:12:IsBetween	0	static
+..\Core\Src\MySrc\DetectObst.c:38:12:IsOnSeg	56	static
+..\Core\Src\MySrc\DetectObst.c:85:5:DetectObstacle	32	static
