@@ -132,7 +132,7 @@ static void AffBat(void)
 	lcdPushTxtPos();
 	lcdSetOutWind(1);
 	lcdgotoxy(1,1);
-    lcdprintf("Vbat=%.1f\t",V_BAT);
+    	lcdprintf("Vbat=%.1f\t",V_BAT);
 	lcdSetOutWind(0);
 	lcdPopTxtPos();
 }
